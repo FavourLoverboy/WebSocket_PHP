@@ -1,0 +1,19 @@
+{
+  "name": "websocket_php",
+  "version": "1.0.0",
+  "description": "An application that displays real time data without refreshing the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FavourLoverboy/WebSocket_PHP.git"
+  },
+  "author": "Nwokamma Favour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FavourLoverboy/WebSocket_PHP/issues"
+  },
+  "homepage": "https://github.com/FavourLoverboy/WebSocket_PHP#readme"
+}
